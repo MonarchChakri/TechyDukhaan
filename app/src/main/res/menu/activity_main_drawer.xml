@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+        <item
+            android:id="@+id/nav_inRequests"
+            android:title="Incoming Requests" />
+        <item
+            android:id="@+id/nav_outRequests"
+            android:title="Outgoing Requests" />
+        <item
+            android:id="@+id/nav_accRequests"
+            android:title="Accepted Requests" />
+        <item
+            android:id="@+id/nav_my_products"
+            android:title="My Products" />
+</menu>
